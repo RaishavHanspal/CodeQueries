@@ -1,3 +1,4 @@
 # CodeQueries
+Stackoverflow questions listing.
 
-hosted at -> https://raishavhanspal.github.io/CodeQueries/
+Github Pages -> https://raishavhanspal.github.io/CodeQueries/
